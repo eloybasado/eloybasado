@@ -66,9 +66,9 @@ Informative web platform for auto repair services.
 
 ## 📊 GitHub Stats
 
-![Eloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eloyparedes&show_icons=true&theme=tokyonight)
+![Eloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eloybasado&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eloyparedes&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eloybasado&layout=compact&theme=tokyonight)
 
 ---
 
