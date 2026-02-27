@@ -64,12 +64,26 @@ Informative web platform for auto repair services.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & 🌐 Connect With Me
 
-![Eloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eloybasado&show_icons=true&theme=tokyonight)
+<p align="center">
+  <!-- GitHub Stats -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=eloyparedes&show_icons=true&theme=tokyonight&hide_border=true" alt="Eloy's GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloyparedes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eloybasado&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <!-- Contact Badges -->
+  <a href="https://eloyparedes.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-🌐-blue?style=for-the-badge&logo=web" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/eloyparedesmu%C3%B1iz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-💼-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/eloyparedes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-💻-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 ---
 
 ## 🌱 Currently Focused On
@@ -78,14 +92,6 @@ Informative web platform for auto repair services.
 - Performance & scalability
 - Clean code & best practices
 - Continuous learning
-
----
-
-## 📫 Connect With Me
-
-🌐 Portfolio: https://eloyparedes.vercel.app  
-💼 LinkedIn: https://www.linkedin.com/in/eloyparedesmu%C3%B1iz/
-💻 GitHub: https://github.com/eloyparedes  
 
 ---
 
