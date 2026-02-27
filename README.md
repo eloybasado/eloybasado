@@ -62,22 +62,6 @@ Redesign of a banking CRM interface for better usability.
 ### 🛠 Proauto Taller  
 Informative web platform for auto repair services.
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://eloyparedes.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-🌐-blue?style=for-the-badge&logo=web" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/eloyparedesmu%C3%B1iz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-💼-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/eloybasado" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-💻-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
 ## 🌱 Currently Focused On
 
 - Application architecture
