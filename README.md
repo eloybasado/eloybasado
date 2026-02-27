@@ -21,15 +21,15 @@ I enjoy turning ideas into functional products and continuously exploring new te
 ![Angular](https://skillicons.dev/icons?i=angular)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Ionic](https://skillicons.dev/icons?i=ionic)
-![tailwind](https://skillicons.dev/icons?i=tailwind)
-![bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Astro](https://skillicons.dev/icons?i=astro)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ### Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
 ![PHP](https://skillicons.dev/icons?i=php)
-![Dotnet](https://skillicons.dev/icons?i=dotnet)
 
 ### Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -42,19 +42,25 @@ I enjoy turning ideas into functional products and continuously exploring new te
 ## 📱 Featured Projects
 
 ### 📚 Byndle  
-A social space and reading tracker for book lovers (iOS & Android).
+A social platform and reading tracker for book lovers (iOS & Android).
 
 ### 🏋 Fitness Force  
 Mobile application focused on personal training.
 
-### 🏠 Housekeeping Coco  
-Rental & services management platform.
+### 🏠 Split Chores  
+App for managing household tasks efficiently.
 
-### 🛒 Foresta Timbers  
-Full-featured E-Commerce platform.
+### 🌐 Solandur  
+Informative web platform.
 
-### 🎮 Shooter.js  
-JavaScript mini-game.
+### 🏡 La Herrada Home  
+Vacation rental website with booking management.
+
+### 💻 Genial Banking CRM  
+Redesign of a banking CRM interface for better usability.
+
+### 🛠 Proauto Taller  
+Informative web platform for auto repair services.
 
 ---
 
@@ -78,7 +84,7 @@ JavaScript mini-game.
 ## 📫 Connect With Me
 
 🌐 Portfolio: https://eloyparedes.vercel.app  
-💼 LinkedIn  
+💼 LinkedIn: https://www.linkedin.com/in/eloyparedesmu%C3%B1iz/
 💻 GitHub: https://github.com/eloyparedes  
 
 ---
