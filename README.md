@@ -39,29 +39,6 @@ I enjoy turning ideas into functional products and continuously exploring new te
 
 ---
 
-## 📱 Featured Projects
-
-### 📚 Byndle  
-A social platform and reading tracker for book lovers (iOS & Android).
-
-### 🏋 Fitness Force  
-Mobile application focused on personal training.
-
-### 🏠 Split Chores  
-App for managing household tasks efficiently.
-
-### 🌐 Solandur  
-Informative web platform.
-
-### 🏡 La Herrada Home  
-Vacation rental website with booking management.
-
-### 💻 Genial Banking CRM  
-Redesign of a banking CRM interface for better usability.
-
-### 🛠 Proauto Taller  
-Informative web platform for auto repair services.
-
 ## 🌱 Currently Focused On
 
 - Application architecture
